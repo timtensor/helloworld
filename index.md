@@ -31,7 +31,7 @@ Playing the guitar and  aking new sounds with open source live music DAWs such a
 
 # **Photography** 
 
-Nature , cities and culture [@pradyontheroad]
+Nature , cities and culture @pradyontheroad
 
 # **Lets Connect**
 [linkedin](https://www.linkedin.com/in/pradyumna-mahanta-0ba09815/)
