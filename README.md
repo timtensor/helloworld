@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Himangshu Saikia's Homepage"
+title: "Pradyumna Mahanta Homepage"
 permalink: /
 ---
 
