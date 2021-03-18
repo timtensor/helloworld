@@ -22,7 +22,7 @@ Lead the development for a zero fee micro-transaction payment solution based on 
 
 ### **Posefit** 
 
-Build an fitness based prototype for home fitness based on computervision pose estimation. The user uploads a video of him/herslef doing an exercise. The computer vision algorithm then parses out the poses where the user does the exercises correctly and where it does it in an incorrect manner. This way the user knows if the execution of the exercises is done in a correct way thus avoiding injuries and can follow his/her training goals in a data driven way.  A demo can be found [here]()
+Build an fitness based prototype for home fitness based on computervision pose estimation. The user uploads a video of him/herslef doing an exercise. The computer vision algorithm then parses out the poses where the user does the exercises correctly and where it does it in an incorrect manner. This way the user knows if the execution of the exercises is done in a correct way thus avoiding injuries and can follow his/her training goals in a data driven way.  A demo can be found [here](https://youtu.be/RZ0fWINGq0c)
 
 
 # **Music** 
