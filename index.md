@@ -29,6 +29,10 @@ Build an fitness based prototype for home fitness based on computervision pose e
 
 Playing the guitar and  aking new sounds with open source live music DAWs such as Sonic-PI , Supercollider 
 
+# **Activities**
+
+Learning languages Spanish & German . Travel , Sports Tennis, beachvolleyball and hopefully soon surfing
+
 # **Photography** 
 
 Nature , cities and culture @pradyontheroad
