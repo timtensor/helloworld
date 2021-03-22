@@ -24,7 +24,7 @@ Lead the development for a zero fee micro-transaction payment solution based on 
 
 Build an fitness based prototype for home fitness based on computervision pose estimation. The user uploads a video of him/herslef doing an exercise. The computer vision algorithm then parses out the poses where the user does the exercises correctly and where it does it in an incorrect manner. This way the user knows if the execution of the exercises is done in a correct way thus avoiding injuries and can follow his/her training goals in a data driven way.  A demo can be found [here](https://youtu.be/RZ0fWINGq0c)
 
-### ** Genrify **
+### **Genrify**
 Build a prototype that uses transfer learning on a pre-trained neural network to classify audio input into different genre (Rock, Dance, Techno, Jazz) . The classification parameters are defined as the final layer of the neural network . Audio samples are converted into images and FFT algorithm is applied to extract unique audio features.  For now it seems to detect the techno genre. A demo of Genrify in action can be seen [here](https://youtu.be/A9q8uMGCyv8)
 
 
