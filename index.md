@@ -12,7 +12,7 @@ Engineer turned entrepreneur having a business and technological toolbox,who bel
 
 ### **EquiEye** 
 
-Building an video analysis application for equesterians. Using 2D markerless pose estimation computer vision. The application detects the horse joints and tracks its movement. Using poses and keypoints as input one can get vital statistics such as velocity, stride length and leap curve while jumping. A demo of the application can be found [here](https://www.youtube.com/watch?v=CmkUQL8IEMc) 
+Building an video analysis application for equesterians. Using 2D markerless pose estimation computer vision. The application detects the horse joints and tracks its movement. Using poses and keypoints as input one can get vital statistics such as velocity, stride length and leap curve while jumping. A demo of the application can be found [here](https://www.youtube.com/watch?v=CmkUQL8IEMc) and here [here] (https://www.youtube.com/watch?v=oZSEOToxyxw)
 
 ### **Payzee** 
 
